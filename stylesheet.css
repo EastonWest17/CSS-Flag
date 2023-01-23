@@ -1,0 +1,55 @@
+div.box-1{
+
+    position:relative;
+    width: 50%;
+    height: 12%;
+    background-color: red;
+
+}
+
+div.box-2{
+    
+    position:relative;
+    width: 50%;
+    height: 12%;
+    background-color: darkblue;
+
+}
+
+div.box-3{
+
+    position:relative;
+    width: 50%;
+    height: 12%;
+    background-color: yellow;
+
+}
+
+div.box-4{
+    
+    position:relative;
+    width: 50%;
+    height: 12%;
+    background-color: green;
+
+}
+
+div.container {
+    position:center;
+    background-color: darkblue;
+    width: 1050px;
+    height: 500px;
+    
+}
+
+div.image {
+    background-image: url(../assets/Coat_of_arms_of_Mauritius.png);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    position:fixed;
+    width: 550px;
+    height: 500px;
+    top: 150px;
+    left: 675px;
+    bottom: 600px;
+}
